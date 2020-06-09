@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Tartiflette",
+    "description": "Du fromage.",
+    "note": 10
+  },
+  {
+    "id": "2",
+    "title": "Raclette",
+    "description": "Plus de fromage.",
+    "note": 9
+  },
+  {
+    "id": "3",
+    "title": "Fondue savoyarde",
+    "description": "Encore du fromage.",
+    "note": 6
+  },
+  {
+    "id": "4",
+    "title": "Tarte provençale",
+    "description": "Du fromage mais un peu moins ça dépend.",
+    "note": 7
+  },
+  {
+    "id": "5",
+    "title": "Gratin de courgette au chère",
+    "description": "Un peu de légume pour changer.",
+    "note": 8
+  },
+  {
+    "id": "6",
+    "title": "Pizza quatre fromage",
+    "description": "Un peu de tout.",
+    "note": 9
+  },
+  {
+    "id": "7",
+    "title": "Pattes au fromage",
+    "description": "Franchement y'a mieux.",
+    "note": 2
+  }
+]
